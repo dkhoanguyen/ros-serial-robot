@@ -1,5 +1,5 @@
 <library path="lib/libhans_cute_driver">
   <class type="HansCuteRobot::HansCuteDriver" base_class_type="RosSerialRobot::SerialRobot">
-    <description>This is a triangle plugin.</description>
+    <description></description>
   </class>
 </library>
